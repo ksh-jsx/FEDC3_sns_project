@@ -1,0 +1,17 @@
+/*
+div {
+  display: flex;
+  background: linear-gradient(to right, #ff0000 0%, #00ff00 50%, #0000ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+}
+*/
+
+div {
+  display: flex;
+  background: linear-gradient(to right, #ff0000 0%, #00ff00 50%, #0000ff 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+}
