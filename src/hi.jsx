@@ -1,6 +1,6 @@
 import React from 'react';
 
-const hi = () => {
+const Hi = () => {
   return (
     <div>
       hihihihihihi
@@ -8,4 +8,4 @@ const hi = () => {
   );
 };
 
-export default hi;
+export default Hi;
